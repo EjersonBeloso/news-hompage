@@ -279,7 +279,7 @@ html{
         padding: 2rem 2rem 0 2rem;
     }
     .hero img{
-        content: url('/assets/images/image-web-3-desktop.jpg');
+        content: url('assets/images/image-web-3-desktop.jpg');
         width: 100%;
     }
 
